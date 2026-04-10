@@ -1,0 +1,32 @@
+`r if (knitr:::is_html_output()) '
+# References {-}
+'`
+
+Adugna D. 2023. Challenges of sanitation in developing counties - Evidenced from a study of fourteen towns, Ethiopia. Heliyon. 9(1):e12932. doi:https://doi.org/10.1016/j.heliyon.2023.e12932.
+
+CDC. 2024 Oct 23. About Global Sanitation. Global Water, Sanitation, and Hygiene (WASH). https://www.cdc.gov/global-water-sanitation-hygiene/about/about-global-sanitation.html.
+
+Drinking water | JMP. 2024. Washdataorg. https://washdata.org/topics/drinking-water.
+
+Drinking water service usage. 2026. Our World in Data. [accessed 2026 Apr 10]. https://ourworldindata.org/grapher/access-drinking-water-stacked?tab=table.
+
+Li S, Wei Y, Zhou J, Li Y, Qiao L, You D, Jiang Y, Jiang Z, Wei X, Ma X. 2026 Feb. Unsafe drinking water and human health: A global umbrella review of disease outcomes, intervention effectiveness, and policy implications. Cell Reports Medicine.:102588. doi:https://doi.org/10.1016/j.xcrm.2026.102588.
+
+United Nations. 2022. Water – at the Center of the Climate Crisis. United Nations. https://www.un.org/en/climatechange/science/climate-issues/water.
+
+United Nations. 2023. Goal 6 | Department of Economic and Social Affairs. sdgsunorg. https://sdgs.un.org/goals/goal6#progress_and_info.
+
+United Nations. 2025. Goal 6 | department of economic and social affairs. sdgsunorg. https://sdgs.un.org/goals/goal6.
+
+United Nations. 2024. Goal 6 | Department of Economic and Social Affairs. sdgsunorg. https://sdgs.un.org/goals/goal6#targets_and_indicators.
+
+Using safely managed sanitation facilities: urban vs. rural population. 2026. Our World in Data. [accessed 2026 Apr 10]. https://ourworldindata.org/grapher/urban-vs-rural-population-safely-managed-sanitation.
+
+Water and Sanitation Success is Fundamental to Achieving All SDGs | Department of Economic and Social Affairs. 2024. Unorg. https://sdgs.un.org/news/water-and-sanitation-success-fundamental-achieving-all-sdgs-57893.
+
+World Health Organization. 2024. Sanitation. WHO. https://www.who.int/news-room/fact-sheets/detail/sanitation.
+
+World W. 2025 Aug 26. 1 in 4 people globally still lack access to safe drinking water – WHO, UNICEF. Whoint. https://www.who.int/news/item/26-08-2025-1-in-4-people-globally-still-lack-access-to-safe-drinking-water---who--unicef.
+
+
+

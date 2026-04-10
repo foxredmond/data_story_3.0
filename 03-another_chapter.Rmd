@@ -1,0 +1,14 @@
+# Sanitation 
+
+According to the World Health Organization, over half a million people die every year due to unsafe sanitation, mainly due to diarrheal disease (World Health Organization... 2024). A sanitation facility at bare minimum means safe disposal of human waste and access to soap and water (either at the facility or homes) for handwashing (World Health Organization... 2024). When people lack access to sanitation facilities, human waste can contaminate an area's water and land (CDC... 2024). This is what is linked to the cause and spread of disease. 
+
+Managing sanitation and sewage in poor, high-density, urban areas is especially challenging. Space for sufficient toilets is hard to come by and insufficient waste-water infrastructure often times means that sewage cannot be safely removed or contained. (CDC... 2024). Whereas in most low-income countries safe water access is easier to come by in urban rather than rural areas, safe sanitation does not follow as strong of a trend (Using safely managed... 2024). Nations are more split here possibly due to aging infrastructure and rapid population growth in urban centers.
+
+```{r, echo = FALSE, message = FALSE, fig.cap="Shared sanitation facilities in Duaripara, Dhaka. https://wsup.com/news/how-can-we-define-high-quality-shared-sanitation-in-cities/", out.width="50%", fig.align='center'}
+knitr::include_graphics("https://wsup.com/wp-content/uploads/2018/08/Communal-Sanitation_-water-point-and-overhead-tank_-Duaripara.jpg")
+
+```
+
+
+  
+In a case study that used Ethiopia as an example of rapidly growing countries in the global South, researches found the largest impediments to implementing safe sanitation features. These include the over-reliance on short-term methods, donor incentivized construction over demand-based, and single faceted solutions that disregard localized context (Adugna D. 2023).
